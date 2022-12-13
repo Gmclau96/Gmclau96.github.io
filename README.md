@@ -23,9 +23,11 @@ View a picture of selected recipe
 View cooking time and serving size  
 View if recipe is suitable for vegans/vegetarians  
 View a description, recipe and coking steps of recipe  
-View the nutritional information of each recipe per serving as a pie and bar chart as well as in text  
+View the nutritional information of each recipe per serving as a pie and bar chart as well as in text via calorieninjas API  
 Review each recipe by adding comments and a star rating out of ten  
 Create a custom menu by adding recipes  
 Remove individual menu items or entire menu  
 Add ingredients to a shopping list  
 Remove shopping list items or entire shopping list     
+
+Please note that as this application is being hosted abroad, response times from the nutritional information API may take a few seconds to update the information and charts.
