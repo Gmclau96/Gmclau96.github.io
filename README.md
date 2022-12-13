@@ -18,7 +18,7 @@ To close the applicatoin head to the terminal and press CTRL+C
 # Features  
 This application allows users to:  
 Search recipes in a search bar by name or recipe category  
-Filter recipes by a commin list of ingredients  
+Filter recipes by a common list of ingredients  
 View a picture of selected recipe  
 View cooking time and serving size  
 View if recipe is suitable for vegans/vegetarians  
