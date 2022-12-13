@@ -1,4 +1,4 @@
-# Live versoin links
+# Live version links
 
 This project has been deployed to two differfent hosting sites, Github Pages and Heroku at:  
 https://gmclau96.github.io/  
@@ -13,7 +13,7 @@ In visual studio terminal or operating system terminal enter git clone https://g
 Type npm install in your terminal window for the module depandancies required  
 Type npm start to run the application  
 The application should now open in your browser automatically, if not type 'localhost:3000' in your preferred browser  
-To close the applicatoin head to the terminal and press CTRL+C  
+To close the application head to the terminal and press CTRL+C  
 
 # Features  
 This application allows users to:  
