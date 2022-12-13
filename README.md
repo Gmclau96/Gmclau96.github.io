@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Live versoin links
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has been deployed to two differfent hosting sites, Github Pages and Heroku at:  
+https://gmclau96.github.io/  
+or  
+https://fewd-cw.herokuapp.com/  
+From experience Github pages has a faster response time than heroku 
 
-## Available Scripts
+# How to run locally
+Install git (available at https://github.com/git-guides/install-git)  
+Instal node (available at https://nodejs.org/en/download/)  
+In visual studio terminal or operating system terminal enter git clone https://github.com/Gmclau96/Wd2.git (Will clone to the users current directory, use cd to change)  
+Type npm install in your terminal window for the module depandancies required  
+Type npm start to run the application  
+The application should now open in your browser automatically, if not type 'localhost:3000' in your preferred browser  
+To close the applicatoin head to the terminal and press CTRL+C  
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Features  
+This application allows users to:  
+Search recipes in a search bar by name or recipe category  
+Filter recipes by a commin list of ingredients  
+View a picture of selected recipe  
+View cooking time and serving size  
+View if recipe is suitable for vegans/vegetarians  
+View a description, recipe and coking steps of recipe  
+View the nutritional information of each recipe per serving as a pie and bar chart as well as in text  
+Review each recipe by adding comments and a star rating out of ten  
+Create a custom menu by adding recipes  
+Remove individual menu items or entire menu  
+Add ingredients to a shopping list  
+Remove shopping list items or entire shopping list     
